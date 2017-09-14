@@ -7,4 +7,6 @@ func main() {
 	fmt.Print("I think therefore I am")
 	fmt.Print("Good bye")
 	fmt.Print("EOL")
+	fmt.Print("new line")
+	fmt.Print("1")
 }
